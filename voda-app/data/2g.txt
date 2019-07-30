@@ -1,0 +1,115 @@
+CELL RESOURCES
+
+CELL      BCCH  CBCH  SDCCH  NOOFTCH    QUEUED  ECBCCH
+23591        1     1     15    21-  42       0       0
+
+CHGR
+ 0
+BPC   CHANNEL      CHRATE  SPV    STATE  ICMBAND  CHBAND  64K     USE
+3179  TCH-37332    FR      1,2,   BUSY   1        P900    IAN     GPRS
+                           3,5
+      TCH-37331    HR      1,3    LOCK   1        P900
+      TCH-37330    HR      1,3    LOCK   1        P900
+3181  TCH-37329    FR      1,2,   BUSY   1        P900    IAN     GPRS
+                           3,5
+      TCH-37328    HR      1,3    LOCK   1        P900
+      TCH-37327    HR      1,3    LOCK   1        P900
+3183  TCH-37326    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37325    HR      1,3    IDLE   1        P900
+      TCH-37324    HR      1,3    IDLE   1        P900
+3184  TCH-37323    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37322    HR      1,3    IDLE   1        P900
+      TCH-37321    HR      1,3    IDLE   1        P900
+3253  SDCCH-37320                 IDLE   1        P900
+      SDCCH-37319                 IDLE   1        P900
+      SDCCH-37318                 IDLE   1        P900
+      SDCCH-37317                 IDLE   1        P900
+      SDCCH-37316                 IDLE   1        P900
+      SDCCH-37315                 IDLE   1        P900
+      SDCCH-37314                 IDLE   1        P900
+      SDCCH-37313                 IDLE   1        P900
+3256  SDCCH-37312                 IDLE   1        P900
+      SDCCH-37311                 IDLE   1        P900
+      CBCH-37310                  BUSY            P900
+      SDCCH-37309                 IDLE   1        P900
+      SDCCH-37308                 IDLE   1        P900
+      SDCCH-37307                 IDLE   1        P900
+      SDCCH-37306                 IDLE   1        P900
+      SDCCH-37305                 IDLE   1        P900
+3178  TCH-37301    FR      1,2,   BUSY   1        P900    IAN     GPRS
+                           3,5
+      TCH-37300    HR      1,3    LOCK   1        P900
+      TCH-37299    HR      1,3    LOCK   1        P900
+3259  BCCH-37304                  BUSY            P900
+
+CHGR
+ 1
+BPC   CHANNEL      CHRATE  SPV    STATE  ICMBAND  CHBAND  64K     USE
+3243  TCH-37229    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37228    HR      1,3    IDLE   1        P900
+      TCH-37227    HR      1,3    IDLE   1        P900
+3241  TCH-37232    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37231    HR      1,3    IDLE   1        P900
+      TCH-37230    HR      1,3    IDLE   1        P900
+3239  TCH-37235    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37234    HR      1,3    IDLE   1        P900
+      TCH-37233    HR      1,3    IDLE   1        P900
+3237  TCH-37238    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37237    HR      1,3    IDLE   1        P900
+      TCH-37236    HR      1,3    IDLE   1        P900
+3235  TCH-37241    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37240    HR      1,3    IDLE   1        P900
+      TCH-37239    HR      1,3    IDLE   1        P900
+3233  TCH-37244    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37243    HR      1,3    IDLE   1        P900
+      TCH-37242    HR      1,3    IDLE   1        P900
+3231  TCH-37247    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37246    HR      1,3    IDLE   1        P900
+      TCH-37245    HR      1,3    IDLE   1        P900
+3229  TCH-37250    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37249    HR      1,3    IDLE   1        P900
+      TCH-37248    HR      1,3    IDLE   1        P900
+3242  TCH-37277    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37276    HR      1,3    IDLE   1        P900
+      TCH-37275    HR      1,3    IDLE   1        P900
+3240  TCH-37280    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37279    HR      1,3    IDLE   1        P900
+      TCH-37278    HR      1,3    IDLE   1        P900
+3238  TCH-37283    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37282    HR      1,3    IDLE   1        P900
+      TCH-37281    HR      1,3    IDLE   1        P900
+3236  TCH-37286    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37285    HR      1,3    IDLE   1        P900
+      TCH-37284    HR      1,3    IDLE   1        P900
+3234  TCH-37289    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37288    HR      1,3    IDLE   1        P900
+      TCH-37287    HR      1,3    IDLE   1        P900
+3232  TCH-37292    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37291    HR      1,3    IDLE   1        P900
+      TCH-37290    HR      1,3    IDLE   1        P900
+3230  TCH-37295    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37294    HR      1,3    IDLE   1        P900
+      TCH-37293    HR      1,3    IDLE   1        P900
+3228  TCH-37298    FR      1,2,   IDLE   1        P900    IAN
+                           3,5
+      TCH-37297    HR      1,3    IDLE   1        P900
+      TCH-37296    HR      1,3    IDLE   1        P900
+END
+

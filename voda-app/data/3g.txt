@@ -1,0 +1,23 @@
+190530-12:05:48 10.138.167.132 18.0n RNC_NODE_MODEL_V_11_593 stopfile=/tmp/28899
+===================================================================================
+Proxy  Adm State     Op. State     MO
+===================================================================================
+57909  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29456
+57941  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29456,Rach=1
+57956  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29456,Fach=1
+57959  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29456,Hsdsch=1
+57960  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29456,Hsdsch=1,Eul=1
+57965  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29456,Pch=1
+57981  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29457
+57982  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29457,Pch=1
+57994  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29457,Rach=1
+58010  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29457,Fach=1
+58017  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29457,Hsdsch=1
+58018  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29457,Hsdsch=1,Eul=1
+58053  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29458
+58067  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29458,Rach=1
+58078  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29458,Pch=1
+58079  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29458,Fach=1
+58084  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29458,Hsdsch=1
+58085  1 (UNLOCKED)  1 (ENABLED)   RncFunction=1,UtranCell=UM29458,Hsdsch=1,Eul=1
+
